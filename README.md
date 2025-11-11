@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Sohan 👋
+
+
+💻 **Software Engineer | Java Enthusiast | Full-Stack Developer**
+
+I'm a passionate developer who loves solving problems and creating practical, user-focused web applications.  
+With a strong foundation in **Java**, I enjoy working across both the **frontend** and **backend**, continuously learning and improving through hands-on projects
 
 <!--
 **SohanDee/SohanDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
