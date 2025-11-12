@@ -3,9 +3,36 @@
 
 ![Banner.png](./banner.png)
 
+<p align="center">
+  I'm a passionate developer who loves solving problems and creating practical, user-focused web applications. With a strong foundation in Java, I enjoy working across both the frontend and backend, continuously learning and improving through hands-on projects. I am also a keen learner of AI and Machine Learning, exploring how intelligent systems can enhance real-world applications.
+</p>
+
 ## 👨🏻‍💻 About Me
-<img  src="./coding.gif" height="290px" align="right" />
-I'm a passionate developer who loves solving problems and creating practical, user-focused web applications. With a strong foundation in Java, I enjoy working across both the frontend and backend, continuously learning and improving through hands-on projects. I am also a keen learner of AI and Machine Learning, exploring how intelligent systems can enhance real-world applications.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanDee&layout=donut-vertical&theme=dark" alt="sohandee" />
+
+🙋‍♂️ Learn more about me at [My Website](https://sohanwijemanna.dev)
+
+🔭 Currently working on **innovative web applications**.
+
+🌱 Continuously learning **AI & ML Engineering**, exploring new technologies, and advancing my skills in **full-stack development**.
+
+👯 Open to collaboration on **full-stack development or open-source projects**.
+
+🤔 Seeking guidance and challenges in **competitive programming**.
+
+💬 Feel free to reach out for discussions on **software development, AI, or technology trends**.
+
+👨‍💻 Philosophy: Continuously **learn, implement, and share knowledge**.
+
+⚡ Fun fact: Enjoy **gaming and experimenting with new technologies** in my free time.
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark" alt="sohandee" />
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) -->
+</div>
 
 ### 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,17 +66,3 @@ I'm a passionate developer who loves solving problems and creating practical, us
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:sohandeemantha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)]([https://www.linkedin.com/in/sohanwijemanna](https://www.linkedin.com/in/sohan-wijemanna-202615221/))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge)](https://wa.me/94766397534)
-<!--
-**SohanDee/SohanDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
