@@ -1,9 +1,8 @@
-## Hi there, I'm Sohan 👋
+<h1 align="center">Hey there, I'm Sohan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h4 align="center">💻 Java Enthusiast | Full-Stack Developer | Lifelong Learner</h3>
 
 ![Banner.png](./banner.png)
 
-
-💻 **Software Engineer | Java Enthusiast | Full-Stack Developer**
 
 I'm a passionate developer who loves solving problems and creating practical, user-focused web applications.  
 With a strong foundation in **Java**, I enjoy working across both the **frontend** and **backend**, continuously learning and improving through hands-on projects
