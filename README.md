@@ -29,8 +29,8 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark" alt="sohandee" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark&card_width=400px&show_owner=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark&card_width=400px&show_owner=true" alt="sohandee" />
 </div>
 
 ### 🛠️ Technologies & Tools
