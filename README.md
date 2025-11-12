@@ -4,6 +4,7 @@
 ![Banner.png](./banner.png)
 
 ## 👨🏻‍💻 About Me
+<img  src="./coding.gif" height="290px" align="right" />
 I'm a passionate developer who loves solving problems and creating practical, user-focused web applications. With a strong foundation in Java, I enjoy working across both the frontend and backend, continuously learning and improving through hands-on projects. I am also a keen learner of AI and Machine Learning, exploring how intelligent systems can enhance real-world applications.
 
 ### 🛠️ Technologies & Tools
