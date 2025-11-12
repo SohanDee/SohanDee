@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sohan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h4 align="center">💻 Java Enthusiast | Full-Stack Developer | Lifelong Learner</h3>
+<h4 align="center">💻 Java Enthusiast | Full-Stack Developer | Lifelong Learner | AI & ML Enthusiast</h3>
 
 ![Banner.png](./banner.png)
 
