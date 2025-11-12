@@ -1,5 +1,7 @@
 ## Hi there, I'm Sohan 👋
 
+![Banner.png](./banner.png)
+
 
 💻 **Software Engineer | Java Enthusiast | Full-Stack Developer**
 
