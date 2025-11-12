@@ -30,7 +30,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark&card_width=400px&show_owner=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark&card_width=400px&show_owner=true" alt="sohandee" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SohanDee&theme=dark&hide_border=true&short_numbers=true&card_width=350&hide_longest_streak=true" alt="sohandee" />
 </div>
 
 ### 🛠️ Technologies & Tools
