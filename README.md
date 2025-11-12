@@ -29,9 +29,8 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark" alt="sohandee" />
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) -->
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SohanDee&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanDee&theme=dark" alt="sohandee" />
 </div>
 
 ### 🛠️ Technologies & Tools
