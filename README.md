@@ -34,9 +34,10 @@ I'm a passionate developer who loves solving problems and creating practical, us
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📫 Contact Me
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sohanwijemanna.dev)
-[![Email](https://img.shields.io/badge/Email-sohan%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohan@email.com)
-[![Phone](https://img.shields.io/badge/Phone-+94XXXXXXX-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+94XXXXXXX)
+[![Website](https://img.shields.io/badge/Website-sohanwijemanna.dev-blue?style=for-the-badge)](https://sohanwijemanna.dev)
+[![Email](https://img.shields.io/badge/Email-sohan@email.com-red?style=for-the-badge)](mailto:sohandeemantha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sohan-blue?style=for-the-badge)]([https://www.linkedin.com/in/sohanwijemanna](https://www.linkedin.com/in/sohan-wijemanna-202615221/))
+[![Mobile](https://img.shields.io/badge/Mobile-+94XXXXXXX-green?style=for-the-badge)](tel:+94766397534)
 
 <!--
 **SohanDee/SohanDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
